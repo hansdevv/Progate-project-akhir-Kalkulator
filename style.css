@@ -44,6 +44,7 @@ button {
 
 button:hover {
 	background-color: darkgray;
+	cursor: grab;
 }
 
 .operator:hover, .equal-sign:hover {
